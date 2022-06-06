@@ -7,7 +7,7 @@ my name is eduardo and i am a developer
 - 🌱 Eu estou estudando react native, react, angular js, vue js e todo o desenvolvimento web para ser um programador-full-stack. Estudo tambem o desenvolvimento de jogos na unity, game maker e outros. 
 - 😄 Pronouns: ele/dele he/his
 - ⚡ Fato engraçado: O que me fez se aproximar da programação foi a filosofia e o existencialismo do porque, como um filosofo resolvo problemas. 
-- ⚡ Fun fact: What brought me closer to programming was the philosophy and existentialism of why, like a philosopher, I solve problems. ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+- ⚡ Fun fact: What brought me closer to programming was the philosophy and existentialism of why, like a philosopher, I solve problems. 
 <div align="center">
   <a href="https://github.com/EduardoGape">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogape&layout=compact&langs_count=7&theme=dracula"/>
