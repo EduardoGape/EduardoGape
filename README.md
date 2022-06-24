@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is eduardo and i am a developer
+my name is eduardo and i am a developer full-stack
 
 - 🔭 I’m currently working on front-end, back-end, full-stack
 - 🌱 I also study game development at unity, game maker and others.
