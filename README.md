@@ -6,7 +6,7 @@ my name is eduardo and i am a developer full-stack
 - 🌱 I also study game development at unity, game maker and others.
 - 😄 Pronouns: ele/dele he/his 
 - ⚡ Fun fact: What brought me closer to programming was the philosophy and existentialism of why, like a philosopher, I solve problems. 
--  My profile on beecroww https://www.beecrowd.com.br/judge/pt/users/statistics/168152
+-  My profile on beecroww https://www.beecrowd.com.br/judge/pt/profile/168152
 <div align="center">
   <a href="https://github.com/EduardoGape">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogape&layout=compact&langs_count=7&theme=dracula"/>
