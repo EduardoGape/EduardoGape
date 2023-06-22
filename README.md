@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-my name is eduardo and i am a developer full-stack
+my name Eduardo and a developer full-stack
 
-- 🔭 I’m currently working on front-end, back-end, full-stack
+- 🔭 I’m currently working back-end.
 - 🌱 I also study game development at unity, game maker and others.
 - 😄 Pronouns: ele/dele he/his 
 - ⚡ Fun fact: What brought me closer to programming was the philosophy and existentialism of why, like a philosopher, I solve problems. 
